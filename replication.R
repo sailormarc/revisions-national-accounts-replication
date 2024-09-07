@@ -436,7 +436,6 @@ df_gdp_seco <- df_gdp_seco_na_cleaned %>%
 ### plotting german gdp data-------------------------------------------------------
 
 # plot 0 (replication of figure 1)
-# - J: looks the same as figure 1, but what happened around 2020?
 df_gdp_obs20050401 <- df_gdp %>% filter(obsTime == ymd("2005-04-01"))
 df_gdp_obs20050401 %>%
   ggplot() + 

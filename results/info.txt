@@ -1,0 +1,3 @@
+res_pth_fr1: table2 + 3 with paper time horizons (pth) and final revision 1 approach (standard paper final revision definition). Including seco gdp.
+res_pth_fr2: table2 + 3 with paper paper time horizons (pth) and final revision 2 approach (final revision as latest vintage). Including seco gdp.
+res_cth_fr1: table2 + 3 with paper current time horizons and final revision 1 approach standard paper final revision definition). Including seco gdp
